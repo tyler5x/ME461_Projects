@@ -4,4 +4,5 @@ For the final project of the class ME 461: Computer Control of Mechanical System
 
 It didn't do this very smoothly, however, and frequently lost track of the line. Future work would include better PID tuning and improved camera placement to prevent the line from leaving the camera's field of view.
 
+Hackster.io page: https://www.hackster.io/500844/me-461-final-project-line-following-segway-robot-b88849
 Robot Demo: https://youtu.be/_paMzIPxlZE
